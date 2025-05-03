@@ -1,6 +1,6 @@
 """
 MicroPython code for the MCP3208 8-channel ADC with SPI (12 bit), used on the Raspberry Pi Pico
-Adapted code from romilly for the MCP3008 ADC (10-bit version): https://github.com/romilly/pico-code/blob/master/src/pico_code/pico/mcp3008/mcp3008.py
+Adapted code from @romilly for the MCP3008 ADC (10-bit version): https://github.com/romilly/pico-code/blob/master/src/pico_code/pico/mcp3008/mcp3008.py
 
 Save code as main.py to the pico to have the code run on start-up
 
